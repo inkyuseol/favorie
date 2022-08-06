@@ -34,3 +34,7 @@ body {
 li {
 	float: left;
 }
+
+table {
+    margin:auto; 
+}
